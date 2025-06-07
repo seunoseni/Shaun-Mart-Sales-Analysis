@@ -6,8 +6,8 @@ Also, the dashboard and Insight were created using PowerBi
 Aim: To analyze sales data for Shaun Mart from 2019-2020 to understand performance, identify key trends, and discover growth opportunities and provide recommendations
 <DIV>
 **UNCLEANED DATA**
-Irrelevant columns
-Incorrect formatting and inconsistent date entries.
+Irrelevant columns<BR>
+Incorrect formatting and inconsistent date entries.<BR>
 Presence of duplicate entries.
 Presence of Blank entries
 **DATA CLEANING PROCESS **
